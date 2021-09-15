@@ -1,4 +1,4 @@
-### Hi there 👋
+Olá, sou o Erick
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week

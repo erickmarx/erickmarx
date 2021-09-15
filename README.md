@@ -1,11 +1,9 @@
-Olá, sou o Erick
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+## Olá, sou o Erick
+- 👨‍💻 Jr. Software Engineer na **Finnet**.
+- 🎯 Interesse: NodeJS, Typescript, SQL, Docker, GIT, NPM
+- 🎮 Quer jogar um LoL? Chama pra gente subir
 
-Skills:
+## Skills 🤹
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" height="40"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,3 +21,9 @@ Skills:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"/>
 </p>
+
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->

@@ -35,8 +35,11 @@
     </a>
 </p>
 
+### Atividades
+<p align="center">
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+</p>

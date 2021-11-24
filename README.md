@@ -1,6 +1,6 @@
 ## Olá, sou o Erick
-- 👨‍💻 Jr. Software Engineer na **Finnet**.
-- 🎯 Interesse: NodeJS, Typescript, SQL, Docker, GIT, NPM
+- 👨‍💻 Jr. Software Engineer na **Finnet S/A - Tecnologia**.
+- 🎯 Interesse: Testings, Websockets, Clean code, Microservices 
 - 🎮 Quer jogar um LoL? Chama pra gente subir
 
 ## Skills 🤹
@@ -26,6 +26,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="40"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src=" https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="40"/>
     </p>
 
 

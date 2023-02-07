@@ -1,5 +1,5 @@
 ## Olá, sou o Erick
-- 👨‍💻 Jr. Software Engineer na **Finnet S/A - Tecnologia**.
+- 👨‍💻 **Software Engineer**
 - 🎯 Interesse: Testings, Websockets, Clean code, Microservices 
 - 🎮 Quer jogar um LoL? Chama pra gente subir
 

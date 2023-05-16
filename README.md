@@ -1,7 +1,6 @@
 ## Olá, sou o Erick
 - 👨‍💻 **Software Engineer**
 - 🎯 Interesse: Testings, Websockets, Clean code, Microservices 
-- 🎮 Quer jogar um LoL? Chama pra gente subir
 
 ## Skills 🤹
 <p align="center">
